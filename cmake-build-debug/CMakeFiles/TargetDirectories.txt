@@ -1,0 +1,17 @@
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/CMakeFiles/DZ3_Algorithm_ex1.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/ArcGraph/CMakeFiles/ArcGraph.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/ArcGraph/CMakeFiles/edit_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/ArcGraph/CMakeFiles/rebuild_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/ListGraph/CMakeFiles/ListGraph.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/ListGraph/CMakeFiles/edit_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/ListGraph/CMakeFiles/rebuild_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/MatrixGraph/CMakeFiles/MatrixGraph.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/MatrixGraph/CMakeFiles/edit_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/MatrixGraph/CMakeFiles/rebuild_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/SetGraph/CMakeFiles/SetGraph.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/SetGraph/CMakeFiles/edit_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/SetGraph/CMakeFiles/rebuild_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/IGraph/CMakeFiles/edit_cache.dir
+/home/azhok/CLionProjects/DZ3_Algorithm_ex1/cmake-build-debug/IGraph/CMakeFiles/rebuild_cache.dir
